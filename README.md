@@ -3,7 +3,7 @@
 ## Assignment 5.1 for Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence
 
 ### Notebook
-https://github.com/stormrryder/BH_PCMLAI_5.1/blob/main/coupns.ipynb
+https://github.com/stormrryder/BH_PCMLAI_5.1/blob/main/coupons.ipynb
 
 ### Findings
 The initial data analysis revealed the following:
